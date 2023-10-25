@@ -2,13 +2,12 @@
 layout: default
 ---
 
-[Download my full resume here](./assets/YourResumeFileName.pdf).
-
 # Jay-Alexander Elliot
 
 - Email: [alexander.elliot.it@protonmail.com](mailto:alexander.elliot.it@protonmail.com)
 - LinkedIn: [linkedin.com/in/jayalexanderelliot](https://linkedin.com/in/jayalexanderelliot)
 - Portfolio: [https://jayalexanderelliot.com](https://jayalexanderelliot.com)
+- Resume: [Latest Resume](./resume.pdf)
 
 ## Summary
 

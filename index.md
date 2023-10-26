@@ -12,7 +12,13 @@ layout: default
 
 ## Summary
 
-An accomplished IT professional with robust experience in data management, infrastructure maintenance, and operations optimization. With a strong background in customer service and technical support, I excel at diagnosing and resolving issues and have a proven track record in virtual and physical infrastructure management and task automation.
+
+An accomplished IT and business professional with a forte in DevOps, infrastructure automation, and data management. I possess a distinct mix of business insight and technical prowess, having significantly enhanced operational efficiency and optimized infrastructure in diverse sectors, from medical research IT support to IT-driven property asset management.
+
+My technical acumen includes hands-on expertise with Linux, Windows Server, VMware, cloud technologies, and security. I've steered cross-functional teams towards achieving organizational objectives across varied industries. Well-versed with tools like Active Directory and MS Office 365, I'm recognized for delivering top-notch IT solutions and building robust stakeholder relationships.
+
+Driven by my dedication and professionalism, I've navigated and thrived in dynamic environments, leading to significant career growth. Passionate about leveraging technology to solve real-world challenges, I continually strive for excellence and innovation in every project.
+
 
 ### Skills
 

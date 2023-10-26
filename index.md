@@ -8,7 +8,7 @@ layout: default
 - **LinkedIn**: [linkedin.com/in/jayalexanderelliot](https://linkedin.com/in/jayalexanderelliot)
 - **Portfolio**: [https://jayalexanderelliot.com](https://jayalexanderelliot.com)
 - **Resume**: [Latest Resume](./resume.pdf)
-- **Support**: [BuyMeACoffee](https://www.buymeacoffee.com/jscribe)
+- **Sponsor Me**: [BuyMeACoffee](https://www.buymeacoffee.com/jscribe)
 
 ## Summary
 
